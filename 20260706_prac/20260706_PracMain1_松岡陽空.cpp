@@ -3,7 +3,7 @@
 using namespace std;
 int main(void)
 {
+	//ÀsŠÖ”
 	Contents();
-
-	return 0;
+    return 0;
 }

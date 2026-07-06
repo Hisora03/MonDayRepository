@@ -8,6 +8,7 @@ void Contents()
 	int plyHP = 100;
 	int plySelect;
 
+	//‰æ–Ê‚É•\Ž¦‚³‚ê‚éŒ¾—t
 	cout << "HP‚ð‰ñ•œ‚·‚éê‡‚Í‚PC‰ñ•œ‚µ‚È‚¢ê‡‚Í‚Q‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢" << endl;
 	cin >> plySelect;
 	Heal(plyHP,plySelect);
